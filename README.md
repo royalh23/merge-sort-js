@@ -1,1 +1,1 @@
-This project implements the merge-sort algorithm using recursion. 
+Implementation of merge-sort algorithm using recursion
